@@ -56,6 +56,7 @@ div {
   background-size: cover;
   height: 700px;
   padding-top: 70px;
+  margin-bottom: 70px;
 }
 
 .content {
@@ -106,3 +107,5 @@ div {
   height: 300px;
   margin: 0px 20px;
 }
+
+/* FOOTER */
