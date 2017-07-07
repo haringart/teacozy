@@ -34,8 +34,9 @@ a {
 }
 
 h2,
+h3,
 h4 {
-  margin: 16px;
+  margin: 15px;
   color: seashell;
   text-align: center;
 }
@@ -79,4 +80,29 @@ div {
 
 .tea-images {
   height: 200px;
+}
+
+/* LOCATIONS */
+
+#locations-section {
+  background-image: url(images/img-locations-background_1200×795.jpg);
+  background-size: cover;
+  height: 500px;
+  margin-top: 50px;
+  padding-top: 70px;
+}
+
+.locations-container {
+  display: flex;
+  justify-content: center;
+}
+
+.location-items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  margin: 0px 20px;
 }
