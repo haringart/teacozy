@@ -42,8 +42,11 @@ h4 {
 }
 
 main {
+  padding-top: 69px;
+  /* delete?
   position: relative;
   top: 69px;
+  */
 }
 
 div {
@@ -118,4 +121,5 @@ h5 {
 /* FOOTER */
 footer h5 {
   text-align: left;
+  margin-left: 20px;
 }
