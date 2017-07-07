@@ -108,4 +108,14 @@ div {
   margin: 0px 20px;
 }
 
+/* CONTACT */
+h5 {
+  margin: 30px;
+  color: seashell;
+  text-align: center;
+}
+
 /* FOOTER */
+footer h5 {
+  text-align: left;
+}
